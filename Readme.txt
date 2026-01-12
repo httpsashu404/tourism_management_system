@@ -23,6 +23,3 @@ Password: ravi@123
 Username: ashu@gmail.com
 Password: ashu@123
 or Register a new User
-
-user : if0_40885972
-pass : bxsoDf23Fou9BUec
